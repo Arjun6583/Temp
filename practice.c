@@ -118,7 +118,9 @@ void delete(struct tree *node)
     printf("\n");
     inorder(root);
 }
-
+/*
+    This is entry point functon...
+*/
 int main(void)
 {
 
