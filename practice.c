@@ -119,7 +119,7 @@ void delete(struct tree *node)
     inorder(root);
 }
 
-int main()
+int main(void)
 {
 
     struct tree *node = malloc(sizeof(struct tree));
